@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **realmohsenkhademian@gmail.com**
 
-- 📄 Know about my experiences [https://hamrah.academy/internship/resume/01ba1ab2eaa59817568a675ce3032aa7/pdf](https://hamrah.academy/internship/resume/01ba1ab2eaa59817568a675ce3032aa7/pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
