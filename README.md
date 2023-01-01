@@ -13,9 +13,11 @@
 
 - 📫 How to reach me **realmohsenkhademian@gmail.com**
 
+- 📄 Know about my experiences [https://hamrah.academy/internship/resume/01ba1ab2eaa59817568a675ce3032aa7/pdf](https://hamrah.academy/internship/resume/01ba1ab2eaa59817568a675ce3032aa7/pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/mohsenkhademian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohsenkhademian" height="30" width="40" /></a>
 <a href="https://instagram.com/mhn.kdn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mhn.kdn" height="30" width="40" /></a>
 <a href="https://discord.gg/#9976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#9976" height="30" width="40" /></a>
 </p>
