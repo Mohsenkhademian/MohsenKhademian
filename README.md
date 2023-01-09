@@ -1,7 +1,7 @@
 
 #    ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)   Hi there 
 <img  src="https://images.unsplash.com/photo-1635830625698-3b9bd74671ca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGNyZWF0b3J8ZW58MHx8MHx8&w=1000&q=80">
-# 💫 About Me:
+💫 About Me:
 🔭 I’m currently working on Deep Learning Java<br>🌱 I’m currently learning Spring (boot , Data , MVC , Security , Cloud)<br>👯 I’m looking to collaborate on automation<br>👨‍💻 All of my projects are available at https://github.com/Mohsenkhademian?tab=repositories<br>💬 Ask me about Everything about programming<br>📫 How to reach me realmohsenkhademian@gmail.com<br>📄 Know about my experiences https://hamrah.academy/internship/resume/01ba1ab2eaa59817568a675ce3032aa7/pdf
 
 
@@ -15,7 +15,25 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MohsenKhademian&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohsenKhademian&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<br clear="both">  <img src="[https://raw.githubusercontent.com/MohsenKhademian/MohsenKhademian/blob/output/snake.svg](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)" alt="Snake animation" />
+- uses: Platane/snk@v2
+  with:
+    # github user name to read the contribution graph from (**required**)
+    # using action context var `github.repository_owner` or specified user
+    github_user_name: ${{ github.repository_owner }}
+
+    # list of files to generate.
+    # one file per line. Each output can be customized with options as query string.
+    #
+    #  supported options:
+    #  - palette:     A preset of color, one of [github, github-dark, github-light]
+    #  - color_snake: Color of the snake
+    #  - color_dots:  Coma separated list of dots color.
+    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
+    #                 Exactly 5 colors are expected.
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MohsenKhademian&icon=0&color=1)](https://visitcount.itsvg.in)
