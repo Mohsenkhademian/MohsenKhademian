@@ -1,5 +1,7 @@
 
-#    ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)   Hi I'm Mohsen Khademian
+# <div align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=19&color=0F20DAE&background=FF2C0000&multiline=true&lines=Hi+,+Im+Mohsen+Khademian)](https://git.io/typing-svg)
+</div>  
 
 
 <div align="center">
@@ -8,12 +10,6 @@
   
 </div>  
 
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=19&color=0F9DAE&background=FF2C0000&multiline=true&lines=Backend+Developer)](https://git.io/typing-svg)
-
-</div>  
   
 ## 👦 AboutME :
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
