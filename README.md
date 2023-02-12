@@ -21,7 +21,7 @@
 
 
 ## 🌐 Socials:
-<p align="center">
+<p align="left">
    <a href="mailto:mohsenkhademian18@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/512/gmail-new.png"  width="50" /></a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/MohsenKhademian" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin.png"  width="50" /></a>
